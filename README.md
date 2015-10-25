@@ -1,0 +1,2 @@
+# MetodosComputacionalesCienciasSociales
+Métodos computacionales para ciencias sociales
